@@ -1,2 +1,1 @@
-# bazel-examples
-bazel-examples
+bazel sample
